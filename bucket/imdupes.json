@@ -10,7 +10,6 @@
     },
     "autoupdate": {
         "url": "https://github.com/miketvo/imdupes/releases/download/v$version/imdupes-v$version-windows.zip",
-        "extract_dir": "imdupes-v$version",
         "hash": {
             "url": "https://github.com/miketvo/imdupes/releases/download/v$version/imdupes-v$version-windows.zip.sha256"
         }
