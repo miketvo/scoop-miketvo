@@ -1,10 +1,10 @@
-# scoop-miketvo Scoop Bucket
+# Mike's Scoop Bucket
 
 [![Tests](https://github.com/miketvo/scoop-miketvo/actions/workflows/ci.yml/badge.svg)](https://github.com/miketvo/scoop-miketvo/actions/workflows/ci.yml) [![Excavator](https://github.com/miketvo/scoop-miketvo/actions/workflows/excavator.yml/badge.svg)](https://github.com/miketvo/scoop-miketvo/actions/workflows/excavator.yml)
 
 [@miketvo](https://github.com/miketvo/scoop-miketvo.git)'s bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
 
-Contains CLI utilities, programs and scripts developed by me.
+Contains CLI utilities, programs and scripts developed by [@miketvo](https://github.com/miketvo/scoop-miketvo.git).
 
 How do I install these manifests?
 ---------------------------------
